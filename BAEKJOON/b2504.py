@@ -1,6 +1,7 @@
 # (()[[]])([])
 # [][]((])
 # []]
+# (((()
 from collections import deque
 
 bracket = list(input())
