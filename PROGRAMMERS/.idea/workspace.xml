@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b536e039-a97a-49f7-8f1c-90c161775aa2" name="Default Changelist" comment="" />
+    <list default="true" id="b536e039-a97a-49f7-8f1c-90c161775aa2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,16 +61,25 @@
         <entry file="file://$PROJECT_DIR$/level1/없는_숫자_더하기.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
-              <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/level1/음양_더하기.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/level1/음양_더하기.py">
+        <entry file="file://$PROJECT_DIR$/level1/내적.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
-              <caret line="10" column="45" lean-forward="true" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+              <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -88,12 +99,13 @@
         <option value="$PROJECT_DIR$/level1/크레인_인형뽑기_게임.py" />
         <option value="$PROJECT_DIR$/level1/없는_숫자_더하기.py" />
         <option value="$PROJECT_DIR$/level1/음양_더하기.py" />
+        <option value="$PROJECT_DIR$/level1/내적.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="604" />
-    <option name="y" value="-8" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="626" />
+    <option name="y" value="183" />
     <option name="width" value="975" />
     <option name="height" value="558" />
   </component>
@@ -103,7 +115,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -120,6 +131,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -137,7 +149,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.음양_더하기">
+  <component name="RunManager" selected="Python.로또의_최고_순위와_최저_순위">
     <configuration name="키패드_누르기" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PROGRAMMERS" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -287,7 +299,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.음양_더하기" />
         <item itemvalue="Python.키패드_누르기" />
         <item itemvalue="Python.신규_아이디_추천" />
         <item itemvalue="Python.로또의_최고_순위와_최저_순위" />
@@ -308,9 +319,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <frame x="626" y="183" width="975" height="558" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12381454" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25080043" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -368,14 +379,21 @@
     <entry file="file://$PROJECT_DIR$/level1/없는_숫자_더하기.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/level1/음양_더하기.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="10" column="45" lean-forward="true" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/level1/내적.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
         </state>
       </provider>
     </entry>
