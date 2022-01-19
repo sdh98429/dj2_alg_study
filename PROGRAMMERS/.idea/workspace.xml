@@ -11,15 +11,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/level1/[1차]_비밀지도.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="2" selection-start-column="2" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/level1/내적.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
@@ -91,11 +82,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/level1/체육복.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="513">
-              <caret line="27" column="56" lean-forward="true" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
+              <caret line="27" column="56" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/level1/k번째수.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -125,12 +125,13 @@
         <option value="$PROJECT_DIR$/level1/신고_결과_받기.py" />
         <option value="$PROJECT_DIR$/level1/2016년.py" />
         <option value="$PROJECT_DIR$/level1/체육복.py" />
+        <option value="$PROJECT_DIR$/level1/k번째수.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="331" />
-    <option name="y" value="153" />
+    <option name="x" value="239" />
+    <option name="y" value="180" />
     <option name="width" value="1440" />
     <option name="height" value="810" />
   </component>
@@ -344,7 +345,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="331" y="153" width="1440" height="810" extended-state="0" />
+    <frame x="239" y="180" width="1440" height="810" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2360913" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -481,7 +482,14 @@
     <entry file="file://$PROJECT_DIR$/level1/체육복.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
-          <caret line="27" column="56" lean-forward="true" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
+          <caret line="27" column="56" selection-start-line="27" selection-start-column="56" selection-end-line="27" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/level1/k번째수.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
