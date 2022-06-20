@@ -1,0 +1,5 @@
+A, B = map(int, input().split())
+C = int(input())
+last = (A * 60 + B + C)%(24 * 60)
+print(last//60, end=" ")
+print(last%60)
