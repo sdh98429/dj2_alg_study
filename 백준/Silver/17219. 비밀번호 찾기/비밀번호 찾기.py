@@ -1,3 +1,6 @@
+import sys
+input = sys.stdin.readline
+
 N, M = map(int, input().split())
 D = dict()
 for _ in range(N):
@@ -5,5 +8,5 @@ for _ in range(N):
   D[key] = value
 
 for _ in range(M):
-  site = input()
+  site = input().rstrip()
   print(D[site])
