@@ -1,0 +1,6 @@
+A = int(input())
+B = int(input())
+C = int(input())
+D= int(input())
+P = int(input())
+print(min(A*P, ((P-C)*D + B if P>C else B)))
